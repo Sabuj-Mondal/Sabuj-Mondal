@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sabuj-Mondal
-- 👀 I’m interested in ...Developing software 
-- 🌱 I’m currently learning ...Java and php
-- 💞️ I’m looking to collaborate on ... Coding releted stuff
+- 👀 I’m interested in cyber security
+- 🌱 I’m currently learning ...CCNA & java
+- 💞️ I’m looking to collaborate on ... security related stuff
 - 📫 How to reach me ...Just email me .
 
 <!---
